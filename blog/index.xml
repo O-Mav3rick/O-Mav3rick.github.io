@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on aafu theme</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http:https://O-Mav3rick.github.io/blog/</link>
     <description>Recent content in Blog on aafu theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="https://O-Mav3rick.github.io//index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/blog/markdown_syntax/</link>
+      <link>http:https://O-Mav3rick.github.io/blog/markdown_syntax/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/markdown_syntax/</guid>
+      <guid>http:https://O-Mav3rick.github.io/blog/markdown_syntax/</guid>
       <description>&lt;h2 id=&#34;pierina-from-peru&#34;&gt;Pierina from Peru&lt;/h2&gt;&#xA;&lt;p&gt;Hello! My name is Pierina, and I’m from Peru. I created this blog as a space to share a bit about myself, my journey, and the things I love most in life — nature, teaching, and connecting with others.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-background&#34;&gt;My Background&lt;/h2&gt;&#xA;&lt;p&gt;When I was younger, I worked in the fashion industry as a model. At first, I enjoyed it, but over time, I began to feel disconnected. It started to feel too superficial. I realized that I admire the natural beauty of a woman much more than the artificial standards often pushed by the media — all the makeup, surgeries, and pressure to look a certain way.&lt;/p&gt;</description>
     </item>
   </channel>
