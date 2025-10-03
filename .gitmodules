@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/O-Mav3rick/O-Mav3rick.github.io.git
+	branch = main
